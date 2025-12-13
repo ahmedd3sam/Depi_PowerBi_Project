@@ -124,7 +124,9 @@ jupyter notebook cleaning.ipynb
 ## 👤 Author
 
 **Ahmed Essam Eldin**
-Graduation Project – Digital Egypt Pioneers Initiative (DEPI)
+**Ahmed Ibrahim**
+**Eslam Mohamed**
+**Reham Shaarawy**
 
 ---
 
