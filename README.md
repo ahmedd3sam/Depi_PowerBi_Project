@@ -80,6 +80,19 @@ Depi_PowerBi_Project/
 
 **Dashboard Description:**  
 This dashboard provides a comprehensive overview of UK railway operations, including total passenger volume, delay performance, refund requests, revenue metrics, and station-level analysis. Interactive filters allow analysis by month, departure station, and arrival station, supporting data-driven operational and financial insights.
+
+### 🔹 UK Railways – Stations Report
+![UK Railways Power BI Dashboard](Images/Stations_Report.png)
+
+### 🔹 UK Railways – Tickets Report
+![UK Railways Power BI Dashboard](Images/Tickets_Report.png)
+
+### 🔹 UK Railways – Delayed Trips Report
+![UK Railways Power BI Dashboard](Images/Delayed_Report.png)
+
+### 🔹 UK Railways – Cancelled Trips Report
+![UK Railways Power BI Dashboard](Images/Cancelled_Report.png)
+
 ---
 ## 📊 Key Outcomes
 
