@@ -73,7 +73,14 @@ Depi_PowerBi_Project/
 * **Microsoft Word & PowerPoint**
 
 ---
+## 📊 Power BI Dashboard
 
+### 🔹 UK Railways – Main Operational Dashboard
+![UK Railways Power BI Dashboard](images/Main_Dashboard.png)
+
+**Dashboard Description:**  
+This dashboard provides a comprehensive overview of UK railway operations, including total passenger volume, delay performance, refund requests, revenue metrics, and station-level analysis. Interactive filters allow analysis by month, departure station, and arrival station, supporting data-driven operational and financial insights.
+---
 ## 📊 Key Outcomes
 
 * Successfully transformed raw railway data into a clean dataset
